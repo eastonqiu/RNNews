@@ -1,0 +1,8 @@
+export default {
+  host: 'localhost',
+  port: 3000,
+  apiHost: 'localhost',
+  apiPort: 4000,
+  apiPrefix: '/api/v1',
+  cookieDomain: '',
+};
